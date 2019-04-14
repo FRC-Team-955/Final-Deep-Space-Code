@@ -1,0 +1,5 @@
+
+**/*.[oa]
+.gradle
+build
+.gitignore.swp
